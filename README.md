@@ -2,6 +2,9 @@
 
 This project demonstrates the implementation of a temperature monitoring and touch-based control system using an ESP32, an induction touch chip, a 7-segment display, and a buzzer.
 
+![Presentation1](https://github.com/user-attachments/assets/20477ef3-3ea0-4fe1-a6b2-8d01875fe1a1)
+
+
 ---
 
 ## Features
